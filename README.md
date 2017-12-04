@@ -1,4 +1,4 @@
-[![Docker Build Status](https://img.shields.io/docker/build/vvelikodny/gitlab-deploy.svg?style=flat-square)]()
+[![Docker Build Status](https://img.shields.io/docker/build/vvelikodny/gitlab-deploy.svg)](https://hub.docker.com/r/vvelikodny/gitlab-deploy/)
 
 # Overview
 
