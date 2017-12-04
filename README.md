@@ -1,3 +1,5 @@
+[![Docker Build Status](https://img.shields.io/docker/build/vvelikodny/gitlab-deploy.svg?style=flat-square)]()
+
 # Overview
 
 It's custom docker image to deploy projects on Gitlab CI.
