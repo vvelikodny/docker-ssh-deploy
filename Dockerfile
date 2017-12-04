@@ -1,4 +1,4 @@
-FROM golang:1.8
+FROM debian:jessie
 
 RUN apt-get update -y && apt-get install openssh-client -y \
     && mkdir -p ~/.ssh \
