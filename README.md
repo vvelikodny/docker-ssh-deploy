@@ -2,6 +2,6 @@
 
 # Overview
 
-It's basic custom Docker image to deploy projects over SSH to servers. For example, I use it to deploy my projects from Gitlab CI workers.
+It's basic custom Docker image to deploy projects over SSH to the servers. For example, I use it to deploy my projects from Gitlab CI runners.
 
 Docker image: [`vvelikodny/gitlab-deploy`](https://hub.docker.com/r/vvelikodny/gitlab-deploy/)
